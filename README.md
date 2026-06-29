@@ -4,7 +4,7 @@
 
 A clean, fast desktop app that turns your line items into a polished,
 branded PDF invoice — and keeps track of every one you've sent. No
-account, no cloud, no monthly fee. Pay once, own it forever.
+account, no cloud, no monthly fee. Pay once(or use completely for free!), own it forever.
 
 ## What's inside
 
