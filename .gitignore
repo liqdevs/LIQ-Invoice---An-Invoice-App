@@ -1,0 +1,15 @@
+# Build and temp files
+__pycache__/
+build/
+dist/
+*.py[cod]
+*.pyo
+*.pyd
+# Installer output
+Output/
+# Private keys
+*.pfx
+*.p12
+# OS files
+.DS_Store
+Thumbs.db

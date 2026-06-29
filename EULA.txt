@@ -1,0 +1,46 @@
+LIQ Invoice End User License Agreement (EULA)
+
+Version 1.1
+
+IMPORTANT — READ CAREFULLY: This End User License Agreement ("EULA") is a legal
+agreement between you and LIQ Apps (the "Licensor"). By installing, copying, or
+otherwise using the software, you agree to be bound by the terms of this EULA.
+If you do not agree to these terms, do not install or use the software.
+
+1. License Grant
+The Licensor grants you a non-exclusive, non-transferable license to use the
+LIQ Invoice application (the "Software") for personal, business, or evaluation
+use, subject to the terms of this EULA.
+
+2. Restrictions
+You may not:
+- redistribute, resell, sublicense, or rent the Software without prior written
+  permission from the Licensor;
+- reverse engineer, decompile, or disassemble the Software except to the extent
+  permitted by applicable law;
+- remove or alter any copyright, trademark, or attribution notices.
+
+3. Ownership
+The Software is licensed, not sold. The Licensor retains all right, title, and
+interest in and to the Software and any copies thereof.
+
+4. Warranty Disclaimer
+The Software is provided "AS IS" without warranty of any kind. The Licensor
+expressly disclaims all warranties, whether express, implied, or statutory,
+including, but not limited to, the implied warranties of merchantability,
+fitness for a particular purpose, and non-infringement.
+
+5. Limitation of Liability
+To the maximum extent permitted by law, the Licensor will not be liable for any
+indirect, incidental, special, punitive, or consequential damages arising out of
+the use of or inability to use the Software.
+
+6. Governing Law
+This EULA will be governed by and construed in accordance with the laws of the
+jurisdiction where the Licensor is established, without regard to its conflict of
+laws principles.
+
+7. Contact
+For inquiries, support, or licensing requests, contact: liqdevs@gmail.com
+
+By accepting these terms, you confirm that you have read and agreed to this EULA.
