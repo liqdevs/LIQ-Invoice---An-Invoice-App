@@ -36,3 +36,4 @@ python invoice_app.py
 ## Notes
 The app includes full Cyrillic support and uses bundled fonts for correct Russian
 and Ukrainian PDF rendering.
+# LIQ-Invoice---An-Invoice-App 
