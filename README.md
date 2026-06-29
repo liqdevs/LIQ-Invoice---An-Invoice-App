@@ -19,10 +19,6 @@ account, no cloud, no monthly fee. Pay once, own it forever.
 ## Download
 Use the signed installer in `public_download/` or publish it from GitHub Releases.
 
-## Screenshots
-Replace `docs/images/screenshot-1.png` and `docs/images/screenshot-2.png` with
-real screenshots from the app to show the UI in the GitHub Pages site.
-
 ## Support
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/liqapps)
 
